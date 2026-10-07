@@ -23,6 +23,13 @@ require 'includes/header.php';
    Data program studi dan berita dibaca dari database, sedangkan pesan pengguna disimpan menggunakan prepared statement.
   </p>
 
+    <h2>Fokus Pembelajaran</h2>
+  <ul>
+   <li>Problem Solving</li>
+   <li>Critical Thinking</li>
+   <li>Kolaborasi</li>
+  </ul>
+
   <div class="alert alert-success">
    Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.
   </div>
